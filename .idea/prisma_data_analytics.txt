@@ -1,0 +1,1 @@
+{"pluginName":"jetbrains","installationId":"c344568e-7ac5-454f-ba5f-d1fc5efa3abd","pluginVersion":"1.0.24","ideVersion":"WebStorm 2024.3.2.1 / WS-243.23654.157","operatingSystem":"Windows 11 10.0","eventType":"onPluginInstall","eventTime":"2025-02-18 16:20:47.111+0000","eventData":{}}
